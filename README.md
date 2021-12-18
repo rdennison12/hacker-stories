@@ -72,3 +72,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ## My-Commits
 
 * Project created and added to version control
+* Basics of React to JavaScript
