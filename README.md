@@ -74,4 +74,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 * Project created and added to version control
 * Basics of React to JavaScript
 * Lists, functions, and constants
-* Components, DOM, Handlers, and Props
+* Components, DOM, Handlers, and Props (Properties)
+* State, Callback Handlers, Lifting State, Controlled Components, and Advance Props Handling
