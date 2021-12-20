@@ -77,3 +77,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 * Components, DOM, Handlers, and Props (Properties)
 * State, Callback Handlers, Lifting State, Controlled Components, and Advance Props Handling
 * Side effects, custom hooks, fragments, reusable components, component composition, imperative React, and inline handlers
+* Asynchronous Data
