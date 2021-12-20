@@ -80,3 +80,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 * Asynchronous Data
 * Conditional rendering
 * Advanced State
+* Impossible States
