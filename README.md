@@ -1,5 +1,20 @@
 # Getting Started with Create React App
 
+## My-Commits
+
+* Project created and added to version control
+* Basics of React to JavaScript
+* Lists, functions, and constants
+* Components, DOM, Handlers, and Props (Properties)
+* State, Callback Handlers, Lifting State, Controlled Components, and Advance Props Handling
+* Side effects, custom hooks, fragments, reusable components, component composition, imperative React, and inline handlers
+* Asynchronous Data
+* Conditional rendering
+* Advanced State
+* Impossible States
+* Data Fetching and Re-Fetching
+* Explicit Data Fetching, Third-Party Libraries, Async/Await, and Forms in React
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -69,16 +84,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-## My-Commits
-
-* Project created and added to version control
-* Basics of React to JavaScript
-* Lists, functions, and constants
-* Components, DOM, Handlers, and Props (Properties)
-* State, Callback Handlers, Lifting State, Controlled Components, and Advance Props Handling
-* Side effects, custom hooks, fragments, reusable components, component composition, imperative React, and inline handlers
-* Asynchronous Data
-* Conditional rendering
-* Advanced State
-* Impossible States
-* Data Fetching and Re-Fetching
